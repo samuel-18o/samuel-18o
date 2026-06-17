@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Samuel%20Ocampo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Backend%20Developer&descAlignY=58&descSize=22&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Samuel%20Ocampo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Developer&descAlignY=58&descSize=22&descColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+backend+systems;Connecting+LLMs%2C+APIs+and+workflows;Turning+manual+processes+into+automation;Workflow-first+%7C+User-centered+%7C+Real+impact)](https://git.io/typing-svg)
 
