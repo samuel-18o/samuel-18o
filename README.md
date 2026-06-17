@@ -209,7 +209,6 @@ Git/GitHub          # Version control, branching, collaboration
 
 > 📖 **Currently learning:** Multimodal AI (GPT-4o, Gemini Vision) • Voice AI (Vapi, Retell, Deepgram) • Next.js
 
-markdown
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## 📡 What I'm working on right now
